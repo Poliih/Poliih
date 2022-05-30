@@ -1,7 +1,7 @@
-### 👋 Hi sou a Poliana Rodrigues
+### 👋 Oiiie sou a Poliana Rodrigues
 
-- Estou cursando Engenharia de Software na Unicesumar
-- Sou monitora de Algoritimos e Lógica de Programação
+- Cursando Engenharia de Software na Unicesumar
+- Monitora de Algoritimos e Lógica de Programação
 
 <div align="center">
   <a href="https://github.com/Poliih">
