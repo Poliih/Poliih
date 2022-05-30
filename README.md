@@ -10,4 +10,4 @@
 
 ##
 
-   ![Snake animation](https://github.com/Poliih)
+   ![Snake animation](https://github.com/poliih/poliih/blob/output/github-contribution-grid-snake.svg)
