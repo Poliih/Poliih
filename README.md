@@ -7,6 +7,7 @@
   <a href="https://github.com/Poliih">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poliih&show_icons]=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra](https://github.com/Poliih/github-readme)
   
 </div>  
  <img align='right' src="https://github.com/Poliih/Poliih/blob/main/studying.png" heigth="200" width="200">
