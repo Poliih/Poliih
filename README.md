@@ -1,16 +1,19 @@
-### 👋 Oiiie sou a Poliana Rodrigues
+### Sou a Poliana Rodrigues
 
 - Cursando Engenharia de Software na Unicesumar
 - Monitora de Algoritimos e Lógica de Programação
 
 <div align="center">
-  <a href="https://github.com/Poliih">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poliih&show_icons]=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliih&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/poliih">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
 </div>  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Poliih-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Poliih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Poliih-MySQL" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <img align='right' src="https://github.com/Poliih/Poliih/blob/main/studying.png" heigth="200" width="200">
 </div>
   
