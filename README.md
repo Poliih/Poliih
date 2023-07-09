@@ -11,9 +11,9 @@
 
 </div>  
  <div style="display: inline_block"><br>
-  <img align="center" alt="poliih-c" height="30" width="40" src="icons/c/c-original.svg">
-  <img align="center" alt="poliih-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img align="center" alt="poliih-mysql" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="poliih-c" height="30" width="40" src="github/workflows/c-original.svg">
+  <img align="center" alt="poliih-java" height="30" width="40" src="github/workflows/java-original.svg">
+  <img align="center" alt="poliih-mysql" height="30" width="40" src="href="github/workflows/mysql-plain-wordmark.svg">
  <img align='right' src="https://github.com/Poliih/Poliih/blob/main/studying.png" heigth="200" width="200">
 </div>
   
