@@ -1,4 +1,4 @@
-### Oii! Sou a Poliana Rodrigues
+### Oii! Sou a Poliana Rodrigues, uma apaixonada por tecnologia. Meu objetivo é contribuir para um futuro melhor através da inovação.
 
 
 - Cursando Engenharia de Software na Unicesumar
