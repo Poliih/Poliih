@@ -2,7 +2,6 @@
 
 
 - Cursando Engenharia de Software na Unicesumar
-- Monitora de Algoritimos e Lógica de Programação
 - Apaixonada por Tecnologia
 - Criadora de conteúdo
   
