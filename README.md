@@ -21,7 +21,7 @@
   <img align="center" alt="poliih-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 </div>
 
-<img align='right' style="margin-top: 40px;" src="https://github.com/Poliih/Poliih/blob/main/poliih.png" heigth="200" width="200">
+<img align='right' style="position: absolute; top: -50px; right: 20px;" src="https://github.com/Poliih/Poliih/blob/main/poliih.png" heigth="200" width="200">
 
 
 ## 🚀 Meu Portfólio
