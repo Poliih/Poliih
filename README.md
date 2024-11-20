@@ -23,10 +23,8 @@
 
 <img align='right' style="margin-top: 10px;" src="https://github.com/Poliih/Poliih/blob/main/poliih.png" heigth="200" width="200">
 
----
 
 ## 🚀 Meu Portfólio
-
 Aqui está meu portfólio onde você pode conhecer melhor os projetos que estou desenvolvendo, minha experiência e habilidades. Está disponível no link abaixo e é totalmente responsivo para uma navegação tranquila em qualquer dispositivo:
 
 [**Acessar o portfólio**](https://poliihrodrigues.com.br)
@@ -34,7 +32,6 @@ Aqui está meu portfólio onde você pode conhecer melhor os projetos que estou 
 ---
 
 ## 🌐 Redes Sociais
-
 Você pode me encontrar nas seguintes plataformas:
 
   <a href="https://www.instagram.com/poliih.rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
