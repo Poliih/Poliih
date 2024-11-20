@@ -1,6 +1,6 @@
 ### Oii! Sou a Poliana Rodrigues.
 
-- Cursando Engenharia de Software na Unicesumar
+- Engenharia de Software
 - Apaixonada por Tecnologia
 - Criadora de conteúdo
 
@@ -26,7 +26,7 @@
 
 
 ### 🚀 Meu Portfólio
-Aqui está meu portfólio onde você pode conhecer melhor os projetos que estou desenvolvendo, minha experiência e habilidades. Está disponível no link abaixo e é totalmente responsivo para uma navegação tranquila em qualquer dispositivo:
+Este é o meu portfólio pessoal desenvolvido com React. Onde você vai encontrar um pouco sobre quem sou eu, meus projetos, as habilidades que domino e, claro, como entrar em contato comigo. O design é moderno e responsivo, perfeito para qualquer dispositivo.
 
 [**Acessar o portfólio**](https://poliihrodrigues.com.br)
 
