@@ -22,6 +22,8 @@
   <img align="center" alt="poliih-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
+![Snake animation](https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake.svg)
+
 <img align='right' style="position: absolute; top: -50px; right: 20px;" src="https://github.com/Poliih/Poliih/blob/main/poliih.png" heigth="200" width="200">
 
 
