@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # Executa a cada 24 horas
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions: 
+      contents: write  # Permissões para escrever no repositório
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Generate GitHub Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.Poliih }}  # Usuário do GitHub (você pode substituir por outro usuário, se necessário)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push Generated Files to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # A branch onde o arquivo gerado será enviado
+          build_dir: dist  # Diretório onde os arquivos gerados estão
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
