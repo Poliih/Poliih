@@ -28,8 +28,6 @@
 
 
 ### 🚀 Meu Portfólio
-Este é o meu portfólio pessoal, desenvolvido com React, onde você vai encontrar um pouco sobre quem sou, meus projetos, as habilidades que domino e, claro, como entrar em contato comigo. O design é moderno e responsivo, perfeito para qualquer dispositivo.
-
 [**Acessar o portfólio**](https://poliihrodrigues.com.br)
 
 ---
