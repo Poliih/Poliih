@@ -23,7 +23,7 @@
 
 ![Snake animation](https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img align='right' style="position: absolute; top: -50px; right: 20px;" src="https://github.com/Poliih/Poliih/blob/main/poliih.png" heigth="200" width="200">
+<img align='right' style="position: absolute; top: -50px; right: 20px;" src="https://github.com/Poliih/Poliih/blob/main/poliih1.png" heigth="200" width="200">
 
 
 ### 🚀 Meu Portfólio
