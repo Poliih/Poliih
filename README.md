@@ -23,13 +23,6 @@
 </div>
 
 <br/>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
-<h2 align="center">🚀 Skills & Redes Sociais</h2>
-<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,py,java,laravel,vue,react,mysql,postgres,rabbitmq,figma" />
@@ -47,8 +40,6 @@
 </p>
 
 <br/>
-<h2 align="center">📊 Stats</h2>
-<br/>
 
 <div align="center">
   <a href="https://github.com/poliih">
@@ -56,8 +47,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
