@@ -4,7 +4,7 @@
       <td align="left" valign="middle">
         <h1>✨ Oii! Sou a Poliana Rodrigues</h1>
         <p>
-          🎓 Engenharia de Software <br/>
+          🎓 Engenheira de Software <br/>
           💻 Apaixonada por Tecnologia <br/>
           📲 Criadora de Conteúdo
         </p>
