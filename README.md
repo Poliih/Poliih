@@ -5,8 +5,9 @@
         <h1>✨ Oii! Sou a Poliana Rodrigues</h1>
         <p>
           🎓 Engenheira de Software <br/>
-          💻 Apaixonada por Tecnologia <br/>
-          📲 Criadora de Conteúdo
+          👩🏻‍💻 Backend Developer <br/>
+          🧠 Tecnologia com Propósito <br/>
+          📲 Compartilho o que aprendo, vivo e acredito
         </p>
         <p>
           <a href="https://poliihrodrigues.com.br" target="_blank" rel="noopener noreferrer">
