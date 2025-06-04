@@ -23,18 +23,12 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/poliih">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
-<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 <h2 align="center">🚀 Skills & Redes Sociais</h2>
-
 <br/>
 
 <p align="center">
@@ -51,6 +45,17 @@
   <a href = "mailto:polianarodriguesds@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linktr.ee/poliih.rodrigues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </p>
+
+<br/>
+<h2 align="center">📊 Stats</h2>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/poliih">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
+</div>
 
 <br/>
 
