@@ -10,7 +10,7 @@
         </p>
         <p>
           <a href="https://poliihrodrigues.com.br" target="_blank">
-            <img src="https://img.shields.io/badge/🌐 Meu Portfólio-1e1e2e?style=for-the-badge" />
+            <img target="_blank" src="https://img.shields.io/badge/🌐 Meu Portfólio-1e1e2e?style=for-the-badge" />
           </a>
         </p>
       </td>
