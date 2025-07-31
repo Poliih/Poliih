@@ -1,24 +1,24 @@
 <div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: middle; padding-right: 20px;">
-      <h1>✨ Oii! Sou a Poliana Rodrigues</h1>
-      <p>
-        🎓 Engenheira de Software <br/>
-        🧠 Tecnologia com Propósito <br/>
-        📲 Compartilho o que aprendo, vivo e acredito
-      </p>
-      <p>
-        <a href="https://poliihrodrigues.com.br" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/🌐 Meu Portfólio-1e1e2e?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://github.com/Poliih/Poliih/blob/main/poliih2.png" height="160" />
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td style="vertical-align: middle; padding-right: 20px;">
+        <h1>✨ Oii! Sou a Poliana Rodrigues</h1>
+        <p>
+          🎓 Engenheira de Software <br/>
+          🧠 Tecnologia com Propósito <br/>
+          📲 Compartilho o que aprendo, vivo e acredito
+        </p>
+        <p>
+          <a href="https://poliihrodrigues.com.br" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/🌐 Meu Portfólio-1e1e2e?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img src="https://github.com/Poliih/Poliih/blob/main/poliih2.png" height="160" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
