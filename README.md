@@ -26,7 +26,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,py,java,laravel,vue,react,mysql,postgres,rabbitmq,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,py,java,mysql,postgres,rabbitmq,figma" />
 </p>
 
 <br/>
