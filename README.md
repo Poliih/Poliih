@@ -38,9 +38,14 @@
   <a href="https://linktr.ee/poliih.rodrigues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </p>
 
-<br/>
+<div align="center">
+  <a href="https://github.com/poliih">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
+</div>
 
----
+<br/>
 
 ## 🌌 Ecossistema Digital
 > Projetos em produção focados em **UI/UX imersiva, alta performance e propósito.**
@@ -49,16 +54,7 @@
 * ⚡ **[FLASH VERSE](https://flashverse.poliihrodrigues.com.br/)** — App gamificado de flashcards com cartões 3D interativos e sistema de ofensivas (streak). *(Vue 3, Tailwind, Supabase)*
 * ⏳ **[KAIRÓS](https://kairos.poliihrodrigues.com.br/)** — Experiência de leitura contextual com *Infinite Scroll* bidirecional e sorteio rápido via RPC. *(Next.js, Framer, Supabase)*
 
----
-
 <br/>
-
-<div align="center">
-  <a href="https://github.com/poliih">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
-</div>
 
 <p align="center">
   <img src="https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
