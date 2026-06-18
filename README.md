@@ -53,6 +53,7 @@
 * 🔮 **[HYPER SCROLL // REVELATION](https://hyper-scroll.poliihrodrigues.com.br/)** — Interface 3D brutalista com scroll infinito gerado por trigonometria a cravados 60FPS. *(Vanilla JS, CSS3, Lenis)*
 * ⚡ **[FLASH VERSE](https://flashverse.poliihrodrigues.com.br/)** — App gamificado de flashcards com cartões 3D interativos e sistema de ofensivas (streak). *(Vue 3, Tailwind, Supabase)*
 * ⏳ **[KAIRÓS](https://kairos.poliihrodrigues.com.br/)** — Experiência de leitura contextual com *Infinite Scroll* bidirecional e sorteio rápido via RPC. *(Next.js, Framer, Supabase)*
+* 🍕 **[HDN // SABORES CASEIROS](https://hdn.poliihrodrigues.com.br/)** — E-commerce *frictionless* com checkout sem login, carrinho dinâmico direto para o WhatsApp e *Dark UI* de alta conversão. *(Vue 3, Pinia, Tailwind, Supabase, Vercel)*
 
 <br/>
 
