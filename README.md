@@ -23,17 +23,16 @@ Engenheira de Software Fullstack · PHP · Laravel · Vue · React
 ### ECOSSISTEMA // PROJETOS
 
 → **FLASH VERSE** — Plataforma gamificada de estudos.  
-`vue 3` `supabase` `tailwind`
+`vue 3` `supabase` `tailwind` · 🔗 https://flashverse.poliihrodrigues.com.br
 
 → **HYPER SCROLL // REVELATION** — Experimento visual com animações 3D.  
-`vanilla js` `css3` `lenis`
+`vanilla js` `css3` `lenis` · 🔗 https://hyper-scroll.poliihrodrigues.com.br
 
 → **KAIRÓS** — Leitura contextual e navegação dinâmica.  
-`next.js` `framer motion` `supabase`
+`next.js` `framer motion` `supabase` · 🔗 https://kairos.poliihrodrigues.com.br
 
-→ **HDN // SABORES CASEIROS** — Cardápio digital com pedidos via WhatsApp.  
-`vue 3` `pinia` `vercel`
-
+→ **HDN // SABORES CASEIROS** — Cardápio digital integrado ao WhatsApp.  
+`vue 3` `pinia` `vercel` · 🔗 https://hdn.poliihrodrigues.com.br
 
 ### STATUS ATUAL
 
