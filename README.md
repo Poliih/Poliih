@@ -1,62 +1,98 @@
 <div align="center">
-  <table>
-    <tr>
-      <td style="vertical-align: middle; padding-right: 20px;">
-        <h1>✨ Oii! Sou a Poliana Rodrigues</h1>
-        <p>
-          🎓 Engenheira de Software <br/>
-          🧠 Tecnologia com Propósito <br/>
-          📲 Compartilho o que aprendo, vivo e acredito
-        </p>
-        <p>
-          <a href="https://poliihrodrigues.com.br" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-1e1e2e?style=for-the-badge" />
-          </a>
-        </p>
-      </td>
-      <td style="text-align: center; vertical-align: middle;">
-        <img src="https://github.com/Poliih/Poliih/blob/main/poliih2.png" height="160" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br/>
+# Poliana Rodrigues
 
+Engenheira de Software Fullstack · PHP · Laravel · Vue · React
+
+[![Portfolio](https://img.shields.io/badge/portfolio-poliihrodrigues.com.br-6C63FF?style=for-the-badge)](https://poliihrodrigues.com.br)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/poliih-rodrigues/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/poliih.rodrigues/)
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@bolhanerd_)
+
+
+<div align="center">
+
+### STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,py,java,mysql,postgres,rabbitmq,figma" />
 </p>
 
-<br/>
+---
+<div align="left">
 
-<p align="center">
- <a href="https://www.instagram.com/poliih.rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@bolhanerd_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.youtube.com/@bolhanerd_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/poliih-rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:polianarodriguesds@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linktr.ee/poliih.rodrigues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-</p>
+### ECOSSISTEMA // PROJETOS
 
-<div align="center">
-  <a href="https://github.com/poliih">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poliih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliih&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
+#### → FLASH VERSE
+
+Plataforma gamificada de estudos com sistema de progresso, streaks e revisão inteligente.
+
+`vue 3` `supabase` `tailwind`
+
+🔗 https://flashverse.poliihrodrigues.com.br
+
+---
+
+#### → HYPER SCROLL // REVELATION
+
+Experimento visual com navegação contínua, animações 3D e foco em performance.
+
+`vanilla js` `css3` `lenis`
+
+🔗 https://hyper-scroll.poliihrodrigues.com.br
+
+---
+
+#### → KAIRÓS
+
+Aplicação de leitura contextual com navegação dinâmica e descoberta de conteúdos.
+
+`next.js` `framer motion` `supabase`
+
+🔗 https://kairos.poliihrodrigues.com.br
+
+---
+
+#### → HDN // SABORES CASEIROS
+
+Cardápio digital com fluxo simplificado de pedidos via WhatsApp.
+
+`vue 3` `pinia` `vercel`
+
+🔗 https://hdn.poliihrodrigues.com.br
+
+---
+
+
+### STATUS ATUAL
+
+```txt
+● ONLINE
+  Software Engineer @ Fy Digital
+  Microsserviços · Crédito/Financiamento · Laravel · Vue
+
+◈ BUILDING
+  Flash Verse
+  Plataforma gamificada para memorização e aprendizado
+
+◈ BUILDING
+  Lógos
+  Tauri · React · SQLite
+  Estudo analítico investigativo do Novo Testamento
+
+○ CREATING
+  @bolhanerd_
+  Conteúdo sobre tecnologia e desenvolvimento
+```
+
+---
 </div>
 
-<br/>
+<div align="center">
 
-## 🌌 Ecossistema Digital
-> Projetos em produção focados em **UI/UX imersiva, alta performance e propósito.**
+<img src="https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake-dark.svg" />
 
-* 🔮 **[HYPER SCROLL // REVELATION](https://hyper-scroll.poliihrodrigues.com.br/)** — Interface 3D brutalista com scroll infinito gerado por trigonometria a cravados 60FPS. *(Vanilla JS, CSS3, Lenis)*
-* ⚡ **[FLASH VERSE](https://flashverse.poliihrodrigues.com.br/)** — App gamificado de flashcards com cartões 3D interativos e sistema de ofensivas (streak). *(Vue 3, Tailwind, Supabase)*
-* ⏳ **[KAIRÓS](https://kairos.poliihrodrigues.com.br/)** — Experiência de leitura contextual com *Infinite Scroll* bidirecional e sorteio rápido via RPC. *(Next.js, Framer, Supabase)*
-* 🍕 **[HDN // SABORES CASEIROS](https://hdn.poliihrodrigues.com.br/)** — E-commerce *frictionless* com checkout sem login, carrinho dinâmico direto para o WhatsApp e *Dark UI* de alta conversão. *(Vue 3, Pinia, Tailwind, Supabase, Vercel)*
+<br>
 
-<br/>
+Building software, solving problems and sharing knowledge.
 
-<p align="center">
-  <img src="https://github.com/Poliih/Poliih/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+</div>
