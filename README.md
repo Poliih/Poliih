@@ -20,20 +20,19 @@ Engenheira de Software Fullstack · PHP · Laravel · Vue · React
 ---
 <div align="left">
 
-### ECOSSISTEMA // PROJETOS
+## 🚀 Ecossistema & Projetos
 
-→ **FLASH VERSE** — Plataforma gamificada de estudos.  
-`vue 3` `supabase` `tailwind` · 🔗 https://flashverse.poliihrodrigues.com.br
+* **[⚡ Flash Verse](https://flashverse.poliihrodrigues.com.br)** — App de flashcards bíblicos gamificados focado em *recall ativo*. Conta com sistema de combo, XP, ranking global e mecânicas de retenção diária.
+  <br> 🛠️ `Flutter` `Dart` `Supabase` `Riverpod`
 
-→ **HYPER SCROLL // REVELATION** — Experimento visual com animações 3D.  
-`vanilla js` `css3` `lenis` · 🔗 https://hyper-scroll.poliihrodrigues.com.br
+* **[🔮 HYPER SCROLL // REVELATION](https://hyper-scroll.poliihrodrigues.com.br)** — Experimento web brutalista e imersivo em 3D. Um túnel de loop infinito gerado via matemática trigonométrica, rodando a 60FPS puramente com tecnologias nativas.
+  <br> 🛠️ `Vanilla JS` `CSS3` `Lenis`
 
-→ **KAIRÓS** — Leitura contextual e navegação dinâmica.  
-`next.js` `framer motion` `supabase` · 🔗 https://kairos.poliihrodrigues.com.br
+* **[✨ Kairós](https://kairos.poliihrodrigues.com.br)** — Plataforma de leitura com sorteio inteligente via RPC. Destaca-se pelo scroll infinito bidirecional para leitura de contexto sob demanda e UI premium com *sticky headers* dinâmicos.
+  <br> 🛠️ `Next.js` `Tailwind` `Framer Motion` `Supabase`
 
-→ **HDN // SABORES CASEIROS** — Cardápio digital integrado ao WhatsApp.  
-`vue 3` `pinia` `vercel` · 🔗 https://hdn.poliihrodrigues.com.br
-
+* **[🍔 HDN // Sabores Caseiros](https://hdn.poliihrodrigues.com.br)** — Cardápio digital dinâmico com integração direta para pedidos via WhatsApp.
+  <br> 🛠️ `Vue 3` `Pinia` `Vercel`
 ### STATUS ATUAL
 
 ```txt
