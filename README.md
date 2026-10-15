@@ -7,7 +7,7 @@ Engenheira de Software Fullstack · PHP · Laravel · Vue · React
 [![Portfolio](https://img.shields.io/badge/portfolio-poliihrodrigues.com.br-6C63FF?style=for-the-badge)](https://poliihrodrigues.com.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/poliih-rodrigues/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/poliih.rodrigues/)
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@bolhanerd_)
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@abolhanerd)
 
 
 <div align="center">
